@@ -1,0 +1,31 @@
+﻿@page
+@model BusManagement.DetailsModel
+@{
+    ViewData["Title"] = "Details";
+     var photopath = "~/image/" + (Model.Employee.PhotoPath ?? "n.jpg");
+}
+
+<h2>Details</h2>
+
+<div class="row justify-content-center m-3">
+    <div class="col-sm-8">
+        <div class="card">
+            <div class="card-header">
+                <h1>Passenger Name: @Model.Employee.Name</h1>
+            </div>
+            <div class="card-body text-center">
+
+                <h4>Paasenger ID : @Model.Employee.Id</h4>
+                <h4>Email: @Model.Employee.Email</h4>
+                <h4>From: @Model.Employee.From</h4>
+                <h4>To: @Model.Employee.To</h4>
+                <h4>Journey Date & Time : @Model.Employee.DT</h4>
+
+            </div>
+            <div class="card-footer text-center">
+                <a asp-page="index" class="btn btn-primary">Back</a>
+               
+            </div>
+        </div>
+    </div>
+</div>

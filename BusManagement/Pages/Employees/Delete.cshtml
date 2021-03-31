@@ -1,0 +1,16 @@
+﻿@page
+@model BusManagement.DeleteModel
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h2>Delete Confirmation</h2>
+
+
+<div class="alert alert-danger">
+    <h5> Are you sure you want to delete the employee??</h5>
+    <form method="post">
+        <button type="submit" class="btn btn-danger">Yes</button>
+        <a class="btn btn-primary" asp-page="/Employee/Index">No</a>
+    </form>
+</div>

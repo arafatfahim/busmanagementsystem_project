@@ -1,0 +1,42 @@
+﻿@page
+@model BusManagement.IndexModel
+@{
+    ViewData["Title"] = "Index";
+}
+<style>
+    .btn {
+        width: 75px;
+    }
+</style>
+
+<h2>PASSENGER LIST</h2>
+
+<environment include="Development">
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+</environment>
+<environment exclude="Development">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"
+          asp-fallback-href="~/lib/bootstrap/dist/css/bootstrap.min.css"
+          asp-fallback-test-class="sr-only" asp-fallback-test-property="position" asp-fallback-test-value="absolute" />
+    <link rel="stylesheet" href="~/css/site.min.css" asp-append-version="true" />
+</environment>
+
+<div class="card-deck">
+    @foreach (var employee in Model.Employees)
+    {
+        
+
+  
+            <div class="card-header">
+                <h3>@employee.Name</h3>
+                <a asp-page="/Employees/Details" asp-route-ID="@employee.Id" class="btn btn-primary m-1"> View</a>
+                <a asp-page="/Employees/Edit" asp-route-ID="@employee.Id" class="btn btn-primary m-1"> Edit</a>
+                <a asp-page="/Employees/Delete" asp-route-ID="@employee.Id" class="btn btn-primary m-1"> Delete</a>
+
+
+            </div>
+        
+    }
+</div>
+

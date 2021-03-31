@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QPRBLAlK59CY0IYkChQeT5Kjt/YB2am2MSrbuk1KfEYQhfexkMCHZEDB1ANLnZZpONCDLjWdTVQKw8iAzGRQRA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Arafat\\Desktop\\New folder\\New folder\\BusManagement\\BusManagement.Model\\BusManagement.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arafat\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Arafat\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

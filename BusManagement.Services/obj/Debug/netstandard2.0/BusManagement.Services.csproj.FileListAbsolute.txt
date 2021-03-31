@@ -1,0 +1,24 @@
+C:\Users\Arafat\Desktop\New folder\New folder\BusManagement\BusManagement.Services\bin\Debug\netstandard2.0\BusManagement.Services.deps.json
+C:\Users\Arafat\Desktop\New folder\New folder\BusManagement\BusManagement.Services\bin\Debug\netstandard2.0\BusManagement.Services.dll
+C:\Users\Arafat\Desktop\New folder\New folder\BusManagement\BusManagement.Services\bin\Debug\netstandard2.0\BusManagement.Services.pdb
+C:\Users\Arafat\Desktop\New folder\New folder\BusManagement\BusManagement.Services\bin\Debug\netstandard2.0\BusManagement.Model.dll
+C:\Users\Arafat\Desktop\New folder\New folder\BusManagement\BusManagement.Services\bin\Debug\netstandard2.0\BusManagement.Model.pdb
+C:\Users\Arafat\Desktop\New folder\New folder\BusManagement\BusManagement.Services\obj\Debug\netstandard2.0\BusManagement.Services.csprojAssemblyReference.cache
+C:\Users\Arafat\Desktop\New folder\New folder\BusManagement\BusManagement.Services\obj\Debug\netstandard2.0\BusManagement.Services.AssemblyInfoInputs.cache
+C:\Users\Arafat\Desktop\New folder\New folder\BusManagement\BusManagement.Services\obj\Debug\netstandard2.0\BusManagement.Services.AssemblyInfo.cs
+C:\Users\Arafat\Desktop\New folder\New folder\BusManagement\BusManagement.Services\obj\Debug\netstandard2.0\BusManagement.Services.csproj.CopyComplete
+C:\Users\Arafat\Desktop\New folder\New folder\BusManagement\BusManagement.Services\obj\Debug\netstandard2.0\BusManagement.Services.dll
+C:\Users\Arafat\Desktop\New folder\New folder\BusManagement\BusManagement.Services\obj\Debug\netstandard2.0\BusManagement.Services.pdb
+E:\Till 15April\New folder\New folder\BusManagement\BusManagement.Services\bin\Debug\netstandard2.0\BusManagement.Services.deps.json
+E:\Till 15April\New folder\New folder\BusManagement\BusManagement.Services\bin\Debug\netstandard2.0\BusManagement.Services.dll
+E:\Till 15April\New folder\New folder\BusManagement\BusManagement.Services\bin\Debug\netstandard2.0\BusManagement.Services.pdb
+E:\Till 15April\New folder\New folder\BusManagement\BusManagement.Services\bin\Debug\netstandard2.0\BusManagement.Model.dll
+E:\Till 15April\New folder\New folder\BusManagement\BusManagement.Services\bin\Debug\netstandard2.0\BusManagement.Model.pdb
+E:\Till 15April\New folder\New folder\BusManagement\BusManagement.Services\obj\Debug\netstandard2.0\BusManagement.Services.csprojAssemblyReference.cache
+E:\Till 15April\New folder\New folder\BusManagement\BusManagement.Services\obj\Debug\netstandard2.0\BusManagement.Services.csproj.CoreCompileInputs.cache
+E:\Till 15April\New folder\New folder\BusManagement\BusManagement.Services\obj\Debug\netstandard2.0\BusManagement.Services.AssemblyInfoInputs.cache
+E:\Till 15April\New folder\New folder\BusManagement\BusManagement.Services\obj\Debug\netstandard2.0\BusManagement.Services.AssemblyInfo.cs
+E:\Till 15April\New folder\New folder\BusManagement\BusManagement.Services\obj\Debug\netstandard2.0\BusManagement.Services.csproj.CopyComplete
+E:\Till 15April\New folder\New folder\BusManagement\BusManagement.Services\obj\Debug\netstandard2.0\BusManagement.Services.dll
+E:\Till 15April\New folder\New folder\BusManagement\BusManagement.Services\obj\Debug\netstandard2.0\BusManagement.Services.pdb
+C:\Users\Arafat\Desktop\New folder\New folder\BusManagement\BusManagement.Services\obj\Debug\netstandard2.0\BusManagement.Services.csproj.CoreCompileInputs.cache

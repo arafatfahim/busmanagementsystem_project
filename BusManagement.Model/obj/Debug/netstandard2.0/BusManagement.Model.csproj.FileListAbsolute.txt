@@ -1,0 +1,18 @@
+C:\Users\Arafat\Desktop\New folder\New folder\BusManagement\BusManagement.Model\bin\Debug\netstandard2.0\BusManagement.Model.deps.json
+C:\Users\Arafat\Desktop\New folder\New folder\BusManagement\BusManagement.Model\bin\Debug\netstandard2.0\BusManagement.Model.dll
+C:\Users\Arafat\Desktop\New folder\New folder\BusManagement\BusManagement.Model\bin\Debug\netstandard2.0\BusManagement.Model.pdb
+C:\Users\Arafat\Desktop\New folder\New folder\BusManagement\BusManagement.Model\obj\Debug\netstandard2.0\BusManagement.Model.csprojAssemblyReference.cache
+C:\Users\Arafat\Desktop\New folder\New folder\BusManagement\BusManagement.Model\obj\Debug\netstandard2.0\BusManagement.Model.AssemblyInfoInputs.cache
+C:\Users\Arafat\Desktop\New folder\New folder\BusManagement\BusManagement.Model\obj\Debug\netstandard2.0\BusManagement.Model.AssemblyInfo.cs
+C:\Users\Arafat\Desktop\New folder\New folder\BusManagement\BusManagement.Model\obj\Debug\netstandard2.0\BusManagement.Model.dll
+C:\Users\Arafat\Desktop\New folder\New folder\BusManagement\BusManagement.Model\obj\Debug\netstandard2.0\BusManagement.Model.pdb
+E:\Till 15April\New folder\New folder\BusManagement\BusManagement.Model\bin\Debug\netstandard2.0\BusManagement.Model.deps.json
+E:\Till 15April\New folder\New folder\BusManagement\BusManagement.Model\bin\Debug\netstandard2.0\BusManagement.Model.dll
+E:\Till 15April\New folder\New folder\BusManagement\BusManagement.Model\bin\Debug\netstandard2.0\BusManagement.Model.pdb
+E:\Till 15April\New folder\New folder\BusManagement\BusManagement.Model\obj\Debug\netstandard2.0\BusManagement.Model.csprojAssemblyReference.cache
+E:\Till 15April\New folder\New folder\BusManagement\BusManagement.Model\obj\Debug\netstandard2.0\BusManagement.Model.csproj.CoreCompileInputs.cache
+E:\Till 15April\New folder\New folder\BusManagement\BusManagement.Model\obj\Debug\netstandard2.0\BusManagement.Model.AssemblyInfoInputs.cache
+E:\Till 15April\New folder\New folder\BusManagement\BusManagement.Model\obj\Debug\netstandard2.0\BusManagement.Model.AssemblyInfo.cs
+E:\Till 15April\New folder\New folder\BusManagement\BusManagement.Model\obj\Debug\netstandard2.0\BusManagement.Model.dll
+E:\Till 15April\New folder\New folder\BusManagement\BusManagement.Model\obj\Debug\netstandard2.0\BusManagement.Model.pdb
+C:\Users\Arafat\Desktop\New folder\New folder\BusManagement\BusManagement.Model\obj\Debug\netstandard2.0\BusManagement.Model.csproj.CoreCompileInputs.cache
